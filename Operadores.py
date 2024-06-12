@@ -17,3 +17,7 @@ print (16 % 8 == 0)
 print (10 % 2 == 0)
 print (15 % 2 == 0)
 print (16 % 2 == 0)
+"""Observações:
+- Nas  divisões, não é possível dividir um número por 0; exemplo: 15 / 0
+- Módulo não é porcentagem, é o que sobra da divisão; exemplo: 17/2 = 8 e sobra 1
+- """
